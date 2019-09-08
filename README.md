@@ -35,6 +35,7 @@ decrypt your message.
 
 
 Some improvement have yet to be done such:
+-beautify the code, remove
 -precise the number of character remaining (before the picture cant store any further information because its full)
 -generate jpg, bmp,... instead of only "png" (the problem is when saved in format such as jpg, the message is lost because of the compression algorithm)
 -AES 256 is still supposed to be secure, but for how long again? Use a strongger AES key may be necessary in the future
